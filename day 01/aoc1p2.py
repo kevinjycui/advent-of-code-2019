@@ -1,5 +1,4 @@
 import math
-n = 0
 sm = 0
 with open('input.txt') as f:
     for n in f:
