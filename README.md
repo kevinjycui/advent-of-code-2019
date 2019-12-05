@@ -9,7 +9,7 @@ Ask me if you want to get added to my private leaderboard ¯\\\_(ツ)\_/¯
 
 | Day  | Stars |
 | ------------- | ------------- |
-| [1](https://github.com/kevinjycui/advent-of-code-2019/day%01)  | ** (Gold)  |
-| [2](https://github.com/kevinjycui/advent-of-code-2019/day%02)  | ** (Gold)  |
-| [3](https://github.com/kevinjycui/advent-of-code-2019/day%03)  | ** (Gold)  |
-| [4](https://github.com/kevinjycui/advent-of-code-2019/day%04)  | ** (Gold)  |
+| [1](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2001)  | ** (Gold)  |
+| [2](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2002)  | ** (Gold)  |
+| [3](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2003)  | ** (Gold)  |
+| [4](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2004)  | ** (Gold)  |
