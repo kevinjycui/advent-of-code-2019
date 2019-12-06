@@ -13,3 +13,5 @@ Ask me if you want to get added to my private leaderboard ¯\\\_(ツ)\_/¯
 | [2](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2002)  | ** (Gold)  |
 | [3](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2003)  | ** (Gold)  |
 | [4](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2004)  | ** (Gold)  |
+| [5](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2005)  | ** (Gold)  |
+| [6](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2006)  | ** (Gold)  |
