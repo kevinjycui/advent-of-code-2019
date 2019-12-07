@@ -6,4 +6,4 @@ with open('input.txt') as f:
         while math.floor(a/3)-2 >= 0:
             a = math.floor(a/3)-2
             sm += a
-print(sm)=
+print(sm)
