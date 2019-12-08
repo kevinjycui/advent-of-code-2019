@@ -16,3 +16,4 @@ Ask me if you want to get added to my private leaderboard ¯\\\_(ツ)\_/¯
 | [5](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2005)  | ** (Gold)  |
 | [6](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2006)  | ** (Gold)  |
 | [7](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2007)  | ** (Gold)  |
+| [8](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2008)  | ** (Gold)  |
