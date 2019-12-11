@@ -19,3 +19,4 @@ Ask me if you want to get added to my private leaderboard ¯\\\_(ツ)\_/¯
 | 8 | [Space Image Format](https://adventofcode.com/2019/day/8) | [**](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2008) (Gold)  | Implementation |
 | 9 | [Sensor Boost](https://adventofcode.com/2019/day/9) | [**](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2009) (Gold) | Intcode |
 | 10 | [Monitoring Station](https://adventofcode.com/2019/day/10) | [**](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2010) (Gold) | Vectors |
+| 11 | [Space Police](https://adventofcode.com/2019/day/11) | [**](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2011) (Gold) | Intcode |
