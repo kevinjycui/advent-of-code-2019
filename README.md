@@ -21,3 +21,4 @@ Ask me if you want to get added to my private leaderboard ¯\\\_(ツ)\_/¯
 | 10 | [Monitoring Station](https://adventofcode.com/2019/day/10) | [**](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2010) (Gold) | Math (Vectors) |
 | 11 | [Space Police](https://adventofcode.com/2019/day/11) | [**](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2011) (Gold) | Intcode |
 | 12 | [The N-Body Problem](https://adventofcode.com/2019/day/12) | [**](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2012) (Gold) | Multivariate Analysis |
+| 13 | [Care Package](https://adventofcode.com/2019/day/13) | [**](https://github.com/kevinjycui/advent-of-code-2019/tree/master/day%2013) (Gold) | Intcode for Game Development |
